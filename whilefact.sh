@@ -1,6 +1,8 @@
 #!/bin/bash
 echo "Enter a number"
-
+#moving to git
+#changing to check
+#changing again to check
 # Read the number
 read num                
 fact=1
