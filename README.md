@@ -1,1 +1,1 @@
-# Project2 is about checking
+# checking first line for conflicts
